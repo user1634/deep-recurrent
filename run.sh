@@ -1,5 +1,5 @@
 # embeddings
-curl -O http://metaoptimize.s3.amazonaws.com/cw-embeddings-ACL2010/embeddings-original.EMBEDDING_SIZE=25.txt.gz
+curl -O http://metaoptimize.s3.amazonaws.com/cw-embeddings-ACL2010/po
 gzip -d embeddings-original.EMBEDDING_SIZE=25.txt
 
 # dataset
